@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Capsic3
-- 👀 I’m interested in programming, graphic design, 3d animation
-- 🌱 I’m currently learning Blender, python, C++, css.  
+- 👀 I’m interested in software programming, UI, graphic design, 3d animation
+- 🌱 I’m currently python.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
